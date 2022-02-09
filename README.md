@@ -7,4 +7,4 @@ https://blooming-plateau-82006.herokuapp.com/api/animals
 
 
 
-git push heroku feature/MVP:main
+git push heroku develop:main
